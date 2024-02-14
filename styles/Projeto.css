@@ -255,6 +255,12 @@ justify-content: center;
 
 }
 
+}
 
+@media (max-width: 450px) {
+
+.cabecalho{
+
+margin-left: 3%;
 
 }
